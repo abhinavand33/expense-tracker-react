@@ -43,16 +43,16 @@ Additionally I have added a custom template in the `extra` folder. The template 
 
 ## Screenshots
 1. Landing
-<img title="Landing" src="https://github.com/abhinavand33/expense-tracker-react/blob/master/screenshots/screen_1.png" width="100%">
+<img title="Landing" src="https://github.com/abhinavand33/expense-tracker-react/blob/main/screenshots/screen_1.png" width="100%">
 2. Login
-<img title="Login" src="https://github.com/abhinavand33/expense-tracker-react/blob/master/screenshots/screen_2.png" width="100%">
+<img title="Login" src="https://github.com/abhinavand33/expense-tracker-react/blob/main/screenshots/screen_2.png" width="100%">
 3. Dashboard
-<img title="Dashboard" src="https://github.com/abhinavand33/expense-tracker-react/blob/master/screenshots/screen_3.png" width="100%">
+<img title="Dashboard" src="https://github.com/abhinavand33/expense-tracker-react/blob/main/screenshots/screen_3.png" width="100%">
 4. Calendar
-<img title="Calendar" src="https://github.com/abhinavand33/expense-tracker-react/blob/master/screenshots/screen_4.png" width="100%">
+<img title="Calendar" src="https://github.com/abhinavand33/expense-tracker-react/blob/main/screenshots/screen_4.png" width="100%">
 5. Settings
-<img title="Settings" src="https://github.com/abhinavand33/expense-tracker-react/blob/master/screenshots/screen_5.png" width="100%">
+<img title="Settings" src="https://github.com/abhinavand33/expense-tracker-react/blob/main/screenshots/screen_5.png" width="100%">
 6. Tools
-<img title="Tools" src="https://github.com/abhinavand33/expense-tracker-react/blob/master/screenshots/screen_6.png" width="100%">
+<img title="Tools" src="https://github.com/abhinavand33/expense-tracker-react/blob/main/screenshots/screen_6.png" width="100%">
 7. Currency
-<img title="Currency" src="https://github.com/abhinavand33/expense-tracker-react/blob/master/screenshots/screen_7.png" width="100%">
+<img title="Currency" src="https://github.com/abhinavand33/expense-tracker-react/blob/main/screenshots/screen_7.png" width="100%">
